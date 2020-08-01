@@ -8,10 +8,8 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <packaging>pom</packaging>
-    <artifactId>sidebar</artifactId>
+    <artifactId>basic-module</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>sidebar</name>
-    <description>调用第三方语言服务</description>
-
-
+    <name>basic-module</name>
+    <description>基础模块</description>
 </project>
