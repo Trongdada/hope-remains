@@ -12,4 +12,9 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>common-base</name>
     <description>通用基础</description>
+
+    <modules>
+        <module>common</module>
+        <module>auth</module>
+    </modules>
 </project>
